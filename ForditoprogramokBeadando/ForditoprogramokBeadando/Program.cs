@@ -44,8 +44,8 @@ namespace forditoProgram
                         {
                             if (sAct == rules[j, 0])
                             {
-                                Console.WriteLine("({0}, \t{1}, \t{2})", input, StackList(stack), ruleNumber);
                                 Evaluate(rules[j, i]);
+                                Console.WriteLine("({0}, \t{1}, \t{2})", input, StackList(stack), ruleNumber);
                                 break;
                             }
                         }
@@ -122,7 +122,12 @@ namespace forditoProgram
                 string datas = data.Substring(1).Split(',')[0];
                 for (int j = datas.Length - 1; j >= 0; j--)
                 {
-                    stack.Push(datas[j].ToString());
+                    if (datas[j] == 'e')
+                    {
+                        stack.Push(datas[j]);
+                        stack.Pop();
+                    }
+                    else stack.Push(datas[j].ToString());
                 }
                 ruleNumber += data.Substring(0, data.Length - 1).Split(',')[1];
             }
