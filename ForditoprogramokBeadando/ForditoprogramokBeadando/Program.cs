@@ -113,7 +113,7 @@ namespace forditoProgram
 
             if (data.Trim() == "pop")
             {
-                //stack.Pop(); empty
+                //stack.Pop();
                 input = input.Substring(1);
             }
 
