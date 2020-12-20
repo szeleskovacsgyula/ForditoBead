@@ -19,3 +19,10 @@ D:\Let0lt;sek\ForditoBeadando-master\ForditoBeadando-master\ForditoprogramokBead
 D:\Let0lt;sek\ForditoBeadando-master\ForditoBeadando-master\ForditoprogramokBeadando\ForditoprogramokBeadando\obj\Debug\ForditoprogramokBeadando.csproj.CoreCompileInputs.cache
 D:\Let0lt;sek\ForditoBeadando-master\ForditoBeadando-master\ForditoprogramokBeadando\ForditoprogramokBeadando\obj\Debug\ForditoprogramokBeadando.exe
 D:\Let0lt;sek\ForditoBeadando-master\ForditoBeadando-master\ForditoprogramokBeadando\ForditoprogramokBeadando\obj\Debug\ForditoprogramokBeadando.pdb
+D:\GIT\ForditoBead\ForditoBead\ForditoprogramokBeadando\ForditoprogramokBeadando\bin\Debug\ForditoprogramokBeadando.exe.config
+D:\GIT\ForditoBead\ForditoBead\ForditoprogramokBeadando\ForditoprogramokBeadando\bin\Debug\ForditoprogramokBeadando.exe
+D:\GIT\ForditoBead\ForditoBead\ForditoprogramokBeadando\ForditoprogramokBeadando\bin\Debug\ForditoprogramokBeadando.pdb
+D:\GIT\ForditoBead\ForditoBead\ForditoprogramokBeadando\ForditoprogramokBeadando\obj\Debug\ForditoprogramokBeadando.csprojAssemblyReference.cache
+D:\GIT\ForditoBead\ForditoBead\ForditoprogramokBeadando\ForditoprogramokBeadando\obj\Debug\ForditoprogramokBeadando.csproj.CoreCompileInputs.cache
+D:\GIT\ForditoBead\ForditoBead\ForditoprogramokBeadando\ForditoprogramokBeadando\obj\Debug\ForditoprogramokBeadando.exe
+D:\GIT\ForditoBead\ForditoBead\ForditoprogramokBeadando\ForditoprogramokBeadando\obj\Debug\ForditoprogramokBeadando.pdb

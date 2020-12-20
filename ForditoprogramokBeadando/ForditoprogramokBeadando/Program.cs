@@ -103,12 +103,12 @@ namespace forditoProgram
         {
             if (data.Trim().Length == 0)
             {
-                Console.Write("Az automata elutasító állapotban állt meg");
+                Console.Write("Elutasító állapot");
             }
 
             if (data.Trim() == "elfogad")
             {
-                Console.Write("Az automata elfogadó állapotban állt meg");
+                Console.Write("O.K.");
             }
 
             if (data.Trim() == "pop")
