@@ -16,7 +16,7 @@ namespace forditoProgram
         public static string input;
         public static Stack stack;
         public static string sAct;
-        
+
         static void Main(string[] args)
         {
             stack = new Stack();
@@ -77,7 +77,7 @@ namespace forditoProgram
                 i++;
             }
         }
-        
+
         public static string StackList(Stack stack)
         {
             string elements = "";
